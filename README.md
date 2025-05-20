@@ -10,7 +10,9 @@
 ## About me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
 Soy un estudiante universitario cursando la carrera de Ingeniería de Sistemas, me llama la atención el mundo relacionado con la programación, tecnología, IA, etc. Mi meta es entrar a ese mundo y aprender bastante para realizar proyectos, trabajar en equipo y disfrutar lo que aprendo. Es el inicio de mis futuros logros y habilidades como dev ⚙️.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&theme=great-gatsby&layout=compact)](https://github.com/CristianCruz0309)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCruz0309&theme=great-gatsby&layout=compact)](https://github.com/CristianCruz0309)
 
 ## 🐧 My environment
 
