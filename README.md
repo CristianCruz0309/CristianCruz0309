@@ -1,5 +1,7 @@
 ## Hola! Bienvenid@ a mi perfil! Soy Cris 👋
 
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQE7SDNgS2E5tw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735326281648?e=1753315200&v=beta&t=BDdTqS3SPIWx8lmKrgAVKdDjBjULFocXj9zQ0VOqmew">
+
 <!--
 **CristianCruz0309/CristianCruz0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
