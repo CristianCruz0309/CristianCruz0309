@@ -1,4 +1,4 @@
-## Hola! Bienvenid@ a mi perfil! Soy Cris 👋
+## <h1 align="center">Hola! Bienvenid@ a mi perfil! Soy Cris 👋</h1>
 
 <img src="https://acortar.link/Pn1HTC">
 
