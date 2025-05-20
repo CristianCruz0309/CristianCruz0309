@@ -14,7 +14,7 @@ Soy un estudiante universitario cursando la carrera de Ingeniería de Sistemas, 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCruz0309&theme=great-gatsby&layout=compact)](https://github.com/CristianCruz0309)
 
-## 🐧 My environment
+## My environment 🐧
 
 - 💻 Distribución: **Garuda Linux (KDE Mokka)**
 - 🖥️ Terminal: **Fish Shell + Konsole**
@@ -64,12 +64,12 @@ Soy un estudiante universitario cursando la carrera de Ingeniería de Sistemas, 
 </span>
 <br>
 
-## 🌐 My social network
+## My social network 🌐
 <a href="https://www.linkedin.com/in/cristian-camilo-cruz-gallego/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 <a href="https://github.com/CristianCruz0309" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/> 
 </a>
 
 > _"La curiosidad es mi lenguaje de programación favorito."_ 💻🦅
