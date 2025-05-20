@@ -70,7 +70,7 @@ Chiste al azar! 😂
 </span>
 <br>
 
-## My social network 🌐
+## My social network <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <a href="https://www.linkedin.com/in/cristian-camilo-cruz-gallego/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
