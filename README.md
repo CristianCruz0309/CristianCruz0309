@@ -1,6 +1,7 @@
 ## <h1 align="center">Hola! Bienvenid@ a mi perfil! Soy Cris 👋</h1>
 
 <img src="https://acortar.link/Pn1HTC">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CristianCruz0309&style=for-the-badge" alt="Cris" /> </p>
 
 <!--
 **CristianCruz0309/CristianCruz0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
