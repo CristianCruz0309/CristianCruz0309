@@ -1,4 +1,4 @@
-## <h1 align="center">Hola! Bienvenid@ a mi perfil! Soy Cris 👋</h1>
+## <h1 align="center">Hola! Bienvenid@ a mi perfil! Soy Cris <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p align="center">
   🐧 Usuario de <strong>Garuda Linux</strong> | 💻 Apasionado por el código | 🚀 Explorando el mundo del desarrollo
