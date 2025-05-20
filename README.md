@@ -13,6 +13,12 @@ Soy un estudiante universitario cursando la carrera de Ingeniería de Sistemas, 
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCruz0309&theme=great-gatsby&layout=compact)](https://github.com/CristianCruz0309)
+<br>
+<br>
+Chiste al azar! 😂
+<br>
+<br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## My environment 🐧
 
@@ -71,6 +77,12 @@ Soy un estudiante universitario cursando la carrera de Ingeniería de Sistemas, 
 <a href="https://github.com/CristianCruz0309" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/> 
 </a>
+
+<br>
+
+-----
+Credits: [Cristian Cruz](https://github.com/HridoyHazard)
+<br>
 
 > _"La curiosidad es mi lenguaje de programación favorito."_ 💻🦅
 
