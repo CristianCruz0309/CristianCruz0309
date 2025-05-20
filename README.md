@@ -15,10 +15,11 @@ Soy un estudiante universitario cursando la carrera de Ingeniería de Sistemas, 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCruz0309&theme=great-gatsby&layout=compact)](https://github.com/CristianCruz0309)
 <br>
 <br>
-Chiste al azar! 😂
-<br>
-<br>
+### Random joke! 😂
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+### Random Dev Quote ✍️
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## My environment 🐧
 
