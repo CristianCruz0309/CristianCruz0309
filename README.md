@@ -1,7 +1,7 @@
-## <h1 align="center">Hola! Bienvenid@ a mi perfil! Soy Cris <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+## <h1 align="center">Hi, welcome to my profile! I'm Cris <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p align="center">
-  🐧 Usuario de <strong>Garuda Linux</strong> | 💻 Apasionado por el código | 🚀 Explorando el mundo del desarrollo
+  🐧 User of <strong>Garuda Linux</strong> | 💻 Passionate about coding | 🚀 Exploring the world of development
 </p>
 
 <img src="https://acortar.link/Pn1HTC">
@@ -9,7 +9,7 @@
 
 ## About me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
-Soy un estudiante universitario cursando la carrera de Ingeniería de Sistemas, me llama la atención el mundo relacionado con la programación, tecnología, IA, etc. Mi meta es entrar a ese mundo y aprender bastante para realizar proyectos, trabajar en equipo y disfrutar lo que aprendo. Es el inicio de mis futuros logros y habilidades como dev ⚙️.
+I am a university student studying Systems Engineering, I am interested in the world of programming, technology, AI, etc. My goal is to enter this world and learn a lot to make projects, work in a team and enjoy what I learn. It is the beginning of my future achievements and skills as a dev ⚙️.
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCruz0309&theme=great-gatsby&layout=compact)](https://github.com/CristianCruz0309)
@@ -23,10 +23,10 @@ Soy un estudiante universitario cursando la carrera de Ingeniería de Sistemas, 
 
 ## My environment 🐧
 
-- 💻 Distribución: **Garuda Linux (KDE Mokka)**
+- 💻 Distribution: **Garuda Linux (KDE Mokka)**
 - 🖥️ Terminal: **Fish Shell + Konsole**
-- ⚙️ Gestor de paquetes: `pacman` 🧡
-- 🎨 Me gusta personalizar visualmente todo lo que ofrece Mokka.
+- ⚙️ Package manager: `pacman` 🧡
+- 🎨 I like to visually customize everything Mokka offers.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
@@ -86,7 +86,7 @@ Soy un estudiante universitario cursando la carrera de Ingeniería de Sistemas, 
 Credits: [Cristian Cruz](https://github.com/CristianCruz0309)
 <br>
 
-> _"La curiosidad es mi lenguaje de programación favorito."_ 💻🦅
+> _"Curiosity is my favorite programming language."_ 💻🦅
 
 <!--
 **CristianCruz0309/CristianCruz0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
