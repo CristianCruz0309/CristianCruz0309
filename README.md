@@ -23,10 +23,10 @@ I am a university student studying Systems Engineering, I am interested in the w
 
 ## My environment 🐧
 
-- 💻 Distribution: **Garuda Linux (KDE Mokka)**
-- 🖥️ Terminal: **Fish Shell + Konsole**
-- ⚙️ Package manager: `pacman` 🧡
-- 🎨 I like to visually customize everything Mokka offers.
+- 💻 Distribution: **Linux Deepin 25**
+- 🖥️ Terminal: **Deepin Terminal**
+- ⚙️ Package manager: `apt` 🧡
+- 🎨 I like to try different Linux distributions, I find them interesting and important to consider..
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
