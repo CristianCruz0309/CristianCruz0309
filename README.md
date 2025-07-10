@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi, welcome to my profile! I'm Cris <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p align="center">
-  🐧 User of <strong>Garuda Linux</strong> | 💻 Passionate about coding | 🚀 Exploring the world of development
+  🐧 User of <strong>Deepin Linux</strong> | 💻 Passionate about coding | 🚀 Exploring the world of development
 </p>
 
 <img src="https://acortar.link/Pn1HTC">
@@ -60,6 +60,7 @@ I am a university student studying Systems Engineering, I am interested in the w
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
+  <img src="https://img.shields.io/badge/ZinjaI-5E2750?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 </span>
 
@@ -68,6 +69,8 @@ I am a university student studying Systems Engineering, I am interested in the w
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Garuda_Linux-3B275F?style=for-the-badge&logo=garuda-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/EndeavourOS-3C406B?style=for-the-badge&logo=endeavouros&logoColor=white">
+  <img src="https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white">
 </span>
 <br>
 
